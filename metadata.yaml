@@ -1,4 +1,8 @@
 _repo: John-Leech-s-Pictures-of-Life-and-Character-Volume-2-of-3-From-the-Collection-of-Mr-Punch_50428
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50428-h/images/cover.png
 creator:
   author:
     agent_name: Leech, John
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9473
     wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50428#John-Leech-s-Pictures-of-Life-and-Character-Volume-2-of-3-From-the-Collection-of-Mr-Punch
 gutenberg_issued: '2015-11-10'
 gutenberg_type: Text
 identifiers:
