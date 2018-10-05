@@ -23,6 +23,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'John Leech''s Pictures of Life and Character, Volume 2 (of 3)
 
   From the Collection of Mr. Punch'
